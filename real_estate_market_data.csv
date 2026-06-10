@@ -1,0 +1,61 @@
+Region,City,Neighborhood,Latitude,Longitude,PropertyType,AveragePrice,MedianRent,RentalYield,InventoryLevel,DemandIndex,NewConstructionStarts,GDPGrowth,InflationRate,UnemploymentRate,Quarter
+North,New York,Midtown,40.7549,-73.9840,Apartment,1250000,5200,5.0,220,92,1200,2.4,3.3,4.2,2025Q1
+North,New York,Brooklyn,40.6782,-73.9442,Apartment,850000,3600,5.1,180,88,980,2.4,3.3,4.2,2025Q1
+East,Boston,Back Bay,42.3505,-71.0808,Condo,980000,4100,5.0,140,85,720,2.6,3.4,3.8,2025Q1
+East,Philadelphia,Center City,39.9526,-75.1652,Apartment,520000,2200,5.1,160,78,650,2.1,3.1,4.5,2025Q1
+South,Miami,Brickell,25.7617,-80.1918,Condo,760000,3200,5.1,130,90,800,3.0,3.6,4.0,2025Q1
+South,Atlanta,Midtown,33.7928,-84.3905,Apartment,540000,2400,5.3,150,82,560,2.8,3.4,4.1,2025Q1
+West,San Francisco,SoMa,37.7786,-122.3893,Loft,1450000,6200,5.1,110,95,450,2.8,3.1,3.7,2025Q1
+West,Los Angeles,Hollywood,34.0928,-118.3287,Apartment,930000,3900,5.0,170,89,710,2.7,3.2,4.0,2025Q1
+Central,Chicago,Lincoln Park,41.9210,-87.6515,Condo,720000,3100,5.2,190,84,590,2.2,3.0,4.3,2025Q1
+Central,Denver,LoDo,39.7486,-104.9964,Apartment,680000,3000,5.3,170,87,540,2.9,3.5,3.9,2025Q1
+North,New York,Queens,40.7282,-73.7949,Apartment,650000,2800,5.2,210,86,900,2.4,3.3,4.2,2025Q1
+East,Boston,Seaport,42.3530,-71.0481,Condo,1100000,4700,5.1,125,87,650,2.6,3.4,3.8,2025Q1
+South,Miami,Design District,25.8033,-80.1969,Loft,840000,3400,4.9,115,91,720,3.0,3.6,4.0,2025Q1
+West,Seattle,Downtown,47.6062,-122.3321,Apartment,820000,3600,5.3,135,88,600,3.1,3.7,4.2,2025Q1
+Central,Austin,Downtown,30.2672,-97.7431,Loft,690000,3100,5.4,145,85,630,3.2,3.8,3.5,2025Q1
+North,Chicago,The Loop,41.8837,-87.6315,Apartment,780000,3400,5.2,175,83,580,2.2,3.0,4.3,2025Q1
+East,Philadelphia,University City,39.9522,-75.1932,Condo,620000,2700,5.2,155,79,610,2.1,3.1,4.5,2025Q1
+South,Atlanta,Buckhead,33.8487,-84.3733,Condo,690000,2900,5.0,165,81,540,2.8,3.4,4.1,2025Q1
+West,Los Angeles,Venice,33.9850,-118.4695,Apartment,980000,4200,5.1,145,90,680,2.7,3.2,4.0,2025Q1
+Central,Denver,Cherry Creek,39.7181,-104.9487,Condo,760000,3300,5.2,155,86,520,2.9,3.5,3.9,2025Q1
+North,Buffalo,Allentown,42.8864,-78.8784,Apartment,310000,1400,5.4,220,70,380,1.8,2.9,5.0,2025Q1
+East,Baltimore,Fells Point,39.2868,-76.6050,Condo,520000,2300,5.3,180,76,420,1.9,3.0,4.6,2025Q1
+South,Orlando,Winter Park,28.6008,-81.3489,Apartment,450000,1900,5.1,170,74,470,2.4,3.2,4.2,2025Q1
+West,San Diego,Gaslamp,32.7100,-117.1610,Apartment,820000,3600,5.3,160,88,500,2.6,3.1,3.8,2025Q1
+Central,Minneapolis,Lake Street,44.9537,-93.0900,Condo,540000,2400,5.3,180,82,510,1.8,2.8,4.4,2025Q1
+North,Boston,Harvard Square,42.3736,-71.1189,Apartment,860000,3800,5.3,135,89,620,2.6,3.4,3.8,2025Q1
+East,Newark,Downtown,40.7357,-74.1724,Apartment,470000,2100,5.4,190,77,430,1.9,3.1,4.8,2025Q1
+South,Houston,Midtown,29.7411,-95.3759,Apartment,510000,2300,5.4,200,80,520,2.5,3.5,4.3,2025Q1
+West,Phoenix,Downtown,33.4484,-112.0740,Condo,450000,2100,5.6,180,84,560,3.3,4.1,4.0,2025Q1
+Central,Detroit,Midtown,42.3317,-83.0464,Apartment,320000,1500,5.6,210,73,360,1.7,2.7,5.2,2025Q1
+North,Washington,Georgetown,38.9072,-77.0723,Condo,1040000,4700,5.4,130,91,640,2.0,3.0,4.0,2025Q1
+East,Boston,South End,42.3389,-71.0729,Loft,940000,4300,5.5,120,88,700,2.6,3.4,3.8,2025Q1
+South,Miami,Coconut Grove,25.7280,-80.2381,Apartment,720000,3100,5.2,140,89,690,3.0,3.6,4.0,2025Q1
+West,San Jose,Downtown,37.3382,-121.8863,Condo,920000,4100,5.3,115,87,540,3.1,3.3,3.9,2025Q1
+Central,Kansas City,Power & Light,39.0997,-94.5786,Apartment,400000,1800,5.4,175,78,430,2.2,3.0,4.7,2025Q1
+North,Chicago,North Center,41.9524,-87.6830,Condo,610000,2700,5.3,170,83,500,2.2,3.0,4.3,2025Q1
+East,Baltimore,Mount Vernon,39.2930,-76.6177,Apartment,490000,2200,5.4,175,77,390,1.9,3.0,4.6,2025Q1
+South,Charlotte,South End,35.2271,-80.8431,Apartment,610000,2800,5.5,155,85,560,2.6,3.4,4.2,2025Q1
+West,Portland, Pearl District,45.5231,-122.6765,Condo,760000,3300,5.2,160,86,530,3.0,3.4,4.1,2025Q1
+Central,Columbus,Short North,39.9833,-83.0037,Apartment,430000,2000,5.6,190,79,440,2.1,3.0,4.5,2025Q1
+North,New York,Harlem,40.8116,-73.9465,Apartment,640000,2800,5.3,205,87,880,2.4,3.3,4.2,2025Q1
+East,Providence,College Hill,41.8268,-71.4060,Condo,520000,2300,5.3,160,75,420,1.8,2.9,4.9,2025Q1
+South,Tampa,Ybor City,27.9690,-82.4410,Apartment,380000,1700,5.4,185,81,470,2.3,3.3,4.4,2025Q1
+West,Las Vegas,The Strip,36.1699,-115.1398,Apartment,580000,2600,5.4,165,86,510,3.4,4.2,4.5,2025Q1
+Central,St. Louis,Central West End,38.6456,-90.2725,Condo,430000,2000,5.6,180,76,380,1.9,2.8,5.0,2025Q1
+North,Philadelphia,Rittenhouse,39.9482,-75.1735,Apartment,740000,3200,5.2,155,84,670,2.1,3.1,4.5,2025Q1
+East,Rochester,Park Ave,43.1548,-77.6152,Apartment,350000,1500,5.1,205,72,330,1.7,2.6,5.1,2025Q1
+South,Nashville,The Gulch,36.1627,-86.7816,Condo,620000,2800,5.4,160,87,510,2.7,3.4,4.0,2025Q1
+West,San Francisco,Pacific Heights,37.7925,-122.4385,Mansion,2850000,12000,5.1,85,97,300,2.8,3.1,3.7,2025Q1
+Central,Milwaukee,Third Ward,43.0389,-87.9065,Apartment,450000,2000,5.3,175,78,430,1.9,2.9,5.0,2025Q1
+North,New York,Upper East Side,40.7736,-73.9566,Apartment,1850000,7800,5.1,95,93,970,2.4,3.3,4.2,2025Q1
+East,Boston,North End,42.3656,-71.0546,Loft,890000,4100,5.5,130,88,610,2.6,3.4,3.8,2025Q1
+South,Charleston,Downtown,32.7765,-79.9311,Condo,670000,2900,5.2,140,84,470,2.5,3.3,4.3,2025Q1
+West,Sacramento,Midtown,38.5816,-121.4944,Apartment,520000,2400,5.5,170,82,520,2.9,3.6,4.1,2025Q1
+Central,Indianapolis,Mass Ave,39.7684,-86.1581,Condo,390000,1800,5.5,180,80,430,2.0,3.2,4.6,2025Q1
+North,Boston,East Boston,42.3665,-71.0304,Apartment,620000,2700,5.2,165,83,510,2.6,3.4,3.8,2025Q1
+East,Newark,Ironbound,40.7357,-74.1734,Apartment,460000,2100,5.5,195,78,410,1.9,3.1,4.8,2025Q1
+South,Jacksonville,San Marco,30.3270,-81.6585,Apartment,340000,1600,5.6,190,80,420,2.1,3.3,4.5,2025Q1
+West,Portland,Hollywood,45.5200,-122.6560,Apartment,560000,2500,5.4,165,84,500,3.0,3.4,4.1,2025Q1
+Central,Columbus,German Village,39.9619,-82.9988,Condo,410000,1900,5.6,185,79,440,2.1,3.0,4.5,2025Q1
